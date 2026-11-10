@@ -1,0 +1,28 @@
+
+# Virtual environments
+venv/
+.venv/
+myvenv/
+
+# Dataset
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Generated models
+models/*.keras
+models/*.h5
+
+# Generated outputs
+outputs/
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
