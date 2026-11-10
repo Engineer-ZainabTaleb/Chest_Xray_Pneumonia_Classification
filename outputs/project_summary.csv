@@ -1,0 +1,9 @@
+Description,Value
+Project,Chest X-ray Pneumonia Classification
+Model,Convolutional Neural Network (CNN)
+Image Size,150 x 150
+Number of Classes,2
+Test Accuracy,0.8125
+Test Precision,0.7780040733197556
+Test Recall,0.9794871794871794
+Test F1-score,0.8671963677639046

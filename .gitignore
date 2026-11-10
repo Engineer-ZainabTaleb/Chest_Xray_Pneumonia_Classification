@@ -18,8 +18,7 @@ __pycache__/
 models/*.keras
 models/*.h5
 
-# Generated outputs
-outputs/
+
 
 # IDE and system files
 .vscode/
